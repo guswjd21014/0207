@@ -37,7 +37,7 @@ public class ListBoxTest extends JFrame implements ActionListener {
 		topLabel = new JLabel("콤보 상자 테스트");
 		topLabel.setHorizontalAlignment(JLabel.CENTER);
 		topLabel.setFont(new Font("D2Coding", Font.BOLD, 35));
-// 		add(topLabel);
+		add(topLabel);
 
 //		원도우 중단의 리스트 박스 세팅
 //		단일 선택 리스트 박스
