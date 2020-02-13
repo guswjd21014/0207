@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 public class ListBoxTest extends JFrame implements ActionListener {
 
-	JLabel topLabel; // 원도우 상단의 제목 레이블
+	JLabel topLabel; // 원도우 상단의 제목 레이블 !!!!
 
 	JPanel listPanel; // 리스트 박스가 올라갈 패널
 	List singleList; // 단일 선택 리스트 박스
